@@ -39,6 +39,7 @@ Forcing users into a different interaction model inside DMs creates unnecessary 
 
 ## Proposed Solution
 Introduce a **“View All Reels”** or **“Play in Sequence”** button within the DM chat when multiple Reels are shared by the same user.
+![UX Wireframe – View All Reels Feature](image-name.png)
 
 ### How It Works
 1. User taps the “View All Reels” button
